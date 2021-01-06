@@ -99,3 +99,11 @@ src/tbb/win32-gcc-tbb-export.def
 .svn
 crash*
 *.tmp
+
+
+# pt
+
+build-ios
+build-android
+install/
+test-cmake
